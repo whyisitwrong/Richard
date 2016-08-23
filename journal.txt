@@ -1,0 +1,2 @@
+Today we learn how to use GIT, I create an account. We also create a robotic folder, which 
+made us able to use GIT.
